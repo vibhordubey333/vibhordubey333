@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=vibhordubey333&label=PROFILEVIEWS&color=22ffaa)
+![](https://komarev.com/ghpvc/?username=vibhordubey333&label=PROFILEVIEWS&style=plastic&color=de2910)
 
 <!--
 **vibhordubey333/vibhordubey333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
