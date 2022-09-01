@@ -15,7 +15,7 @@
 <a href="https://www.postgresqltutorial.com/"> ![Postgres](https://img.shields.io/badge/postgres-CB3837?style=for-the-badge&logo=postgres&logoColor=pink)</a>
 <a href="https://www.mongodb.com/docs/"> ![MongoDB](https://img.shields.io/badge/MongoDB-777BB4?style=for-the-badge&logo=mongodb&logoColor=darkblue)</a>
 <a href="https://docker-docs.netlify.app/get-started/"> ![Docker](https://img.shields.io/badge/Docker-lightgreen?style=for-the-badge&logo=docker&logoColor=darkgreen)</a>
-<a href="https://docker-docs.netlify.app/get-started/"> ![Minikube](https://img.shields.io/badge/Kubernetes-lightgreen?style=for-the-badge&logo=docker&logoColor=yellow)</a>
+<a href="https://docker-docs.netlify.app/get-started/"> ![Minikube](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=yellow)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 
@@ -23,7 +23,7 @@
 
 <a href="mailto:vibhordubey333@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/vibhordubey333"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="[https://medium.com/@OverPoweredDev](https://stackoverflow.com/users/3649496/infinitelearner)"> ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-303030?style=for-the-badge&logo=stackoverflow&logoColor=white)</a>
+<a href="https://stackoverflow.com/users/3649496/infinitelearner"> ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-303030?style=for-the-badge&logo=stackoverflow&logoColor=white)</a>
 
 
 
