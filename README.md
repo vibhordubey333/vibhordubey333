@@ -9,9 +9,10 @@
 
 ## :toolbox: My Tools
 
-<a href="https://golangbot.com/"> ![Go](https://img.shields.io/badge/Go-CB3837?style=for-the-badge&logo=Go&logoColor=white)</a>
+<a href="https://golangbot.com/"> ![Go](https://img.shields.io/badge/Go-2986CC?style=for-the-badge&logo=Go&logoColor=white)</a>
 <a href="https://grpc.io/docs/"> ![gRPC](https://img.shields.io/badge/gRPC-fcdc00?style=for-the-badge&logo=grpc&logoColor=black)</a>
 <a href="https://swagger.io/specification/"> ![OpenAPI](https://img.shields.io/badge/OpenAPI-F17726?style=for-the-badge&logo=openapi&logoColor=white)</a>
+<a href="https://graphql.org/learn/"> ![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql&logoColor=black)</a>
 <a href="https://www.postgresqltutorial.com/"> ![Postgres](https://img.shields.io/badge/postgres-CB3837?style=for-the-badge&logo=postgres&logoColor=pink)</a>
 <a href="https://www.mongodb.com/docs/"> ![MongoDB](https://img.shields.io/badge/MongoDB-777BB4?style=for-the-badge&logo=mongodb&logoColor=darkblue)</a>
 <a href="https://docker-docs.netlify.app/get-started/"> ![Docker](https://img.shields.io/badge/Docker-lightgreen?style=for-the-badge&logo=docker&logoColor=darkgreen)</a>
