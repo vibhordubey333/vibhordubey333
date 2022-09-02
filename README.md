@@ -23,8 +23,9 @@
 
 <a href="mailto:vibhordubey333@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/vibhordubey333"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://stackoverflow.com/users/3649496/infinitelearner"> ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-303030?style=for-the-badge&logo=stackoverflow&logoColor=white)</a>
 
+## :desktop_computer: Active On Platforms
+<a href="https://stackoverflow.com/users/3649496/infinitelearner"> ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-303030?style=for-the-badge&logo=stackoverflow&logoColor=white)</a>
 
 
 [![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhordubey333&show_icons=true&theme=radical)](https://github.com/vibhordubey333/github-readme-stats)
