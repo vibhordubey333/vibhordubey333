@@ -16,7 +16,7 @@
 <a href="https://www.postgresqltutorial.com/"> ![Postgres](https://img.shields.io/badge/postgres-CB3837?style=for-the-badge&logo=postgres&logoColor=pink)</a>
 <a href="https://www.mongodb.com/docs/"> ![MongoDB](https://img.shields.io/badge/MongoDB-777BB4?style=for-the-badge&logo=mongodb&logoColor=darkblue)</a>
 <a href="https://docker-docs.netlify.app/get-started/"> ![Docker](https://img.shields.io/badge/Docker-lightgreen?style=for-the-badge&logo=docker&logoColor=darkgreen)</a>
-<a href="https://docker-docs.netlify.app/get-started/"> ![Minikube](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=yellow)</a>
+<a href="https://docker-docs.netlify.app/get-started/"> ![Minikube](https://img.shields.io/badge/Minikube-blue?style=for-the-badge&logo=docker&logoColor=yellow)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 
