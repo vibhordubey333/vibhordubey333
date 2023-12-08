@@ -29,6 +29,7 @@
 
 ## :desktop_computer: Active On Platforms
 <a href="https://stackoverflow.com/users/3649496/infinitelearner"> ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-303030?style=for-the-badge&logo=stackoverflow&logoColor=white)</a>
+<a href="https://dev.to/vibhordubey333"> ![StackOverFlow](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>
 
 
 [![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhordubey333&show_icons=true&theme=radical)](https://github.com/vibhordubey333/github-readme-stats)
