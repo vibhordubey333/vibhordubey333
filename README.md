@@ -2,6 +2,8 @@
 
 
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=vibhordubey333&label=PROFILEVIEWS&style=plastic&color=de2910)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://github.com/vibhordubey333/vibhordubey333/assets/22407855/66e774ce-d682-48b3-bd98-c4705076bd1e)
+
 
 <!--
 **vibhordubey333/vibhordubey333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@
 <a href="https://www.postgresqltutorial.com/"> ![Postgres](https://img.shields.io/badge/postgres-CB3837?style=for-the-badge&logo=postgres&logoColor=pink)</a>
 <a href="https://www.mongodb.com/docs/"> ![MongoDB](https://img.shields.io/badge/MongoDB-777BB4?style=for-the-badge&logo=mongodb&logoColor=darkblue)</a>
 <a href="https://docker-docs.netlify.app/get-started/"> ![Docker](https://img.shields.io/badge/Docker-lightgreen?style=for-the-badge&logo=docker&logoColor=darkgreen)</a>
-<a href="https://docker-docs.netlify.app/get-started/"> ![Minikube](https://img.shields.io/badge/Minikube-blue?style=for-the-badge&logo=docker&logoColor=yellow)</a>
+<a href="https://docker-docs.netlify.app/get-started/"> ![Kubernetes]( 	https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue?style=for-the-badge&logo=docker&logoColor=yellow)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 
