@@ -2,8 +2,6 @@
 
 
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=vibhordubey333&label=PROFILEVIEWS&style=plastic&color=de2910)
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://github.com/vibhordubey333/vibhordubey333/assets/22407855/66e774ce-d682-48b3-bd98-c4705076bd1e)
-
 
 <!--
 **vibhordubey333/vibhordubey333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
