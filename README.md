@@ -61,10 +61,10 @@
 ---
 
 ## 🚀 Current Focus
-- Deepening expertise in **Golang**, **Java**, and **Python** for backend and systems programming  
-- Enhancing infrastructure automation with **Terraform** and **Kubernetes**  
-- Strengthening observability practices and performance tuning across distributed systems 
-
+- Expanding expertise in **SRE and DevOps practices** — automation, observability, and infrastructure as code.  
+- Designing **scalable backend systems** in **Go** and **Java**, integrating reliability engineering principles from day one.  
+- Strengthening hands-on proficiency with **Terraform**, **Kubernetes**, and **AWS** for high-availability architectures.  
+- Exploring **Python** for tooling, automation, and reliability-focused scripts.  
 ---
 
 ## 🌐 Connect With Me
