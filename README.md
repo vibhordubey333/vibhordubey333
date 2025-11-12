@@ -1,34 +1,95 @@
-![image](https://user-images.githubusercontent.com/22407855/129513608-2fecfd92-5e7d-4c3e-af84-25a1ca9a0149.png)
+<h1 align="center">👋 Hi, I'm Vibhor Dubey</h1>
 
+<p align="center">
+  <b>Backend Engineer & SRE</b> with 7+ years of experience building <b>cloud-native microservices</b> using <b>Go</b> and <b>Java</b>.<br>
+  Passionate about <b>reliability</b>, <b>observability</b>, and <b>performance</b> — applying SRE principles to deliver systems that scale and stay stable.
+</p>
 
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=vibhordubey333&label=PROFILEVIEWS&style=plastic&color=de2910)
-Software Engineering is ❤️.
+---
 
-<!--
-**vibhordubey333/vibhordubey333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## ⚙️ Tech Stack
 
-## :toolbox: My Tools
+### 🧩 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-<a href="https://golangbot.com/"> ![Go](https://img.shields.io/badge/Go-2986CC?style=for-the-badge&logo=Go&logoColor=white)</a>
-<a href="https://grpc.io/docs/"> ![gRPC](https://img.shields.io/badge/gRPC-fcdc00?style=for-the-badge&logo=grpc&logoColor=black)</a>
-<a href="https://swagger.io/specification/"> ![OpenAPI](https://img.shields.io/badge/OpenAPI-F17726?style=for-the-badge&logo=openapi&logoColor=white)</a>
-<a href="https://graphql.org/learn/"> ![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql&logoColor=black)</a>
-<a href="https://www.postgresqltutorial.com/"> ![Postgres](https://img.shields.io/badge/postgres-CB3837?style=for-the-badge&logo=postgres&logoColor=pink)</a>
-<a href="https://www.mongodb.com/docs/"> ![MongoDB](https://img.shields.io/badge/MongoDB-777BB4?style=for-the-badge&logo=mongodb&logoColor=darkblue)</a>
-<a href="https://docker-docs.netlify.app/get-started/"> ![Docker](https://img.shields.io/badge/Docker-lightgreen?style=for-the-badge&logo=docker&logoColor=darkgreen)</a>
-<a href="https://docker-docs.netlify.app/get-started/"> ![Kubernetes]( 	https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue?style=for-the-badge&logo=docker&logoColor=yellow)</a>
-<a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
-<a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
+---
 
-## :incoming_envelope: Reach Me
+### 🔗 APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
 
-<a href="mailto:vibhordubey333@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/vibhordubey333"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+---
 
-## :desktop_computer: Active On Platforms
-<a href="https://stackoverflow.com/users/3649496/infinitelearner"> ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-303030?style=for-the-badge&logo=stackoverflow&logoColor=white)</a>
-<a href="https://dev.to/vibhordubey333"> ![StackOverFlow](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
 
+---
 
-[![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhordubey333&show_icons=true&theme=radical)](https://github.com/vibhordubey333/github-readme-stats)
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🔍 Monitoring & Reliability
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- Deepening expertise in **Golang**, **Java**, and **Python** for backend and systems programming  
+- Enhancing infrastructure automation with **Terraform** and **Kubernetes**  
+- Strengthening observability practices and performance tuning across distributed systems 
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/vibhordubey333">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vibhordubey333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/3649496/infinitelearner">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibhordubey333&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhordubey333&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Reliability isn’t a feature — it’s a mindset.” ☁️</i>
+</p>
