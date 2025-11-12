@@ -78,6 +78,9 @@
   <a href="https://stackoverflow.com/users/3649496/infinitelearner">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
+  <a href="https://dev.to/vibhordubey333">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
 
 ---
