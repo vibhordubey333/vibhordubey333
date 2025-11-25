@@ -84,24 +84,11 @@
 </p>
 
 ---
-## 🧩 Open Source Contribution Graph
-[![Vibhor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vibhordubey333&theme=github-dark&hide_border=true)](https://github.com/vibhordubey333)
 
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibhordubey333&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhordubey333&theme=tokyonight&hide_border=true" />
-</p>
-
----
-## 📊 GitHub Stats
-
-<!-- 🧩 Open Source Contribution Graph (most stable & meaningful) -->
-[![Vibhor's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vibhordubey333&theme=github-dark&hide_border=true)](https://github.com/vibhordubey333)
-
-<!-- 📘 Profile Details Card (stable dark mode) -->
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibhordubey333&theme=github_dark&v=3" />
 </p>
 
 ---
