@@ -84,6 +84,8 @@
 </p>
 
 ---
+## 🧩 Open Source Contribution Graph
+[![Vibhor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vibhordubey333&theme=github-dark&hide_border=true)](https://github.com/vibhordubey333)
 
 ## 📊 GitHub Stats
 <p align="center">
