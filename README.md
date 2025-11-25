@@ -94,6 +94,17 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<!-- 🧩 Open Source Contribution Graph (most stable & meaningful) -->
+[![Vibhor's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vibhordubey333&theme=github-dark&hide_border=true)](https://github.com/vibhordubey333)
+
+<!-- 📘 Profile Details Card (stable dark mode) -->
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibhordubey333&theme=github_dark&v=3" />
+</p>
+
+---
 
 <p align="center">
   <i>“Reliability isn’t a feature — it’s a mindset.” ☁️</i>
