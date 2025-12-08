@@ -64,7 +64,6 @@
 - K9s (Kubernetes ecosystem tool): [Random characters were being input to k9s after periods of inactivity.](https://github.com/derailed/k9s/pull/3697) .<br/> 
 Currently under maintainer review.
 
-  
 ---
 
 ## 🚀 Current Focus
