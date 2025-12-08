@@ -60,6 +60,13 @@
 
 ---
 
+## 👐 OSS Contribution
+- K9s (Kubernetes ecosystem tool): [Random characters were being input to k9s after periods of inactivity.](https://github.com/derailed/k9s/pull/3697) .<br/> 
+Currently under maintainer review.
+
+  
+---
+
 ## 🚀 Current Focus
 - Expanding expertise in **SRE and DevOps practices** — automation, observability, and infrastructure as code.  
 - Designing **scalable backend systems** in **Go** and **Java**, integrating reliability engineering principles from day one.  
