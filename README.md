@@ -62,7 +62,7 @@
 
 ## 👐 OSS Contribution
 - K9s (Kubernetes ecosystem tool): [Random characters were being input to k9s after periods of inactivity.](https://github.com/derailed/k9s/pull/3697) .<br/> 
-    - Identified and fixed an issue where inactive sessions caused unintended characters to appear in the terminal UI. Currently under maintainer review.
+    - Identified and fixed an issue where inactive sessions caused unintended characters to appear in the terminal UI. Merged
 
 ---
 
