@@ -63,7 +63,8 @@
 ## 👐 OSS Contribution
 - K9s (Kubernetes ecosystem tool): [Random characters were being input to k9s after periods of inactivity.](https://github.com/derailed/k9s/pull/3697) .<br/> 
     - Identified and fixed an issue where inactive sessions caused unintended characters to appear in the terminal UI. Merged
-
+- Istio: [RegularExpression routes incorrectly ranked below PathPrefix routes](https://github.com/istio/istio/pull/58641) <br/>
+    -  Fixed a issue in service mesh by identifying and correcting edge case behavior. In Review
 ---
 
 ## 🚀 Current Focus
