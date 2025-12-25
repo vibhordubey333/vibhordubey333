@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Engineer & SRE</b> with 7.5+ years of experience building <b>cloud-native microservices</b> using <b>Go</b> and <b>Java</b>.<br>
-  Passionate about <b>reliability</b>, <b>observability</b>, and <b>performance</b> — applying SRE principles to deliver systems that scale and stay stable. OSS contributor to the k9(Kubernetes Ecosystem)
+  Passionate about <b>reliability</b>, <b>observability</b>, and <b>performance</b> — applying SRE principles to deliver systems that scale and stay stable.<br/> OSS contributor to the istio & k9(Kubernetes Ecosystem)
 </p>
 
 ---
