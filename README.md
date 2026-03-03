@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vibhor Dubey</h1>
 
 <p align="center">
-  <b>Backend Engineer & SRE</b> with 7.8+ years of experience building <b>cloud-native microservices</b> using <b>Go</b> and <b>Java</b>.<br>
+  <b>Backend Engineer & SRE</b> with 7.10+ years of experience building <b>cloud-native microservices</b> using <b>Go</b> and <b>Java</b>.<br>
   Passionate about <b>reliability</b>, <b>observability</b>, and <b>performance</b> — applying SRE principles to deliver systems that scale and stay stable.<br/> OSS contributor to the istio & k9(Kubernetes Ecosystem)
 </p>
 
