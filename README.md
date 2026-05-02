@@ -79,6 +79,13 @@ Currently at Zinnia, leading backend development on a correspondence platform pr
     -  Fixed a issue in service mesh by identifying and correcting edge case behavior. In Review
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ## 🚀 Current Focus
 - Expanding expertise in **SRE and DevOps practices** — automation, observability, and infrastructure as code.  
 - Designing **scalable backend systems** in **Go** and **Java**, integrating reliability engineering principles from day one.  
@@ -100,14 +107,6 @@ Currently at Zinnia, leading backend development on a correspondence platform pr
   <a href="https://dev.to/vibhordubey333">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibhordubey333&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhordubey333&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
