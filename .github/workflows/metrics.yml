@@ -20,9 +20,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           config_theme: dark
-          base: ""
+          
+          # 1. Profile header
+          base: header
+          
+          # 2. Contributions calendar (small/half-year) & streaks
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          
+          # 3. Languages chart
           plugin_languages: yes
           plugin_languages_limit: 8
-          config_display: large
+          
+          # 4. Recent activity (strictly filtered to avoid "Unexpected error")
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_filter: issue, pr, release, fork, review
+          plugin_activity_visibility: public
