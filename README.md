@@ -99,7 +99,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>“Reliability isn’t a feature — it’s a mindset.” ☁️</i>
-</p>
