@@ -1,8 +1,13 @@
 <h1 align="center">👋 Hi, I'm Vibhor Dubey</h1>
 
 <p align="center">
-  <b>Backend Engineer & SRE</b> with 8+ years of experience building <b>cloud-native microservices</b> using <b>Go</b> and <b>Java</b>.<br>
-  Passionate about <b>reliability</b>, <b>observability</b>, and <b>performance</b> — applying SRE principles to deliver systems that scale and stay stable.<br/> OSS contributor to the istio & k9(Kubernetes Ecosystem)
+  <b>Senior Backend Engineer — building distributed systems that handle high volume load and stay up.
+
+8+ years across event-driven pipelines, high-throughput APIs, and cloud-native infrastructure — primarily in Go and Java Spring Boot.
+
+Most of my work lives at the intersection of distributed systems and observability — designing for failure, reducing MTTD, and making production less surprising.
+
+Currently at Zinnia, leading backend development on a correspondence platform processing millions of insurance documents.
 </p>
 
 ---
