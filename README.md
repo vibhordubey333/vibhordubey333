@@ -79,11 +79,6 @@ Currently at Zinnia, leading backend development on a correspondence platform pr
     -  Fixed a issue in service mesh by identifying and correcting edge case behavior. In Review
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
 ---
 
 ## 🚀 Current Focus
@@ -110,3 +105,8 @@ Currently at Zinnia, leading backend development on a correspondence platform pr
 </p>
 
 ---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
