@@ -21,18 +21,15 @@ jobs:
           filename: github-metrics.svg
           config_theme: dark
           
+          # Make the overall image more compact
+          config_width: 600
+          
           # 1. Profile header
           base: header
           
-          # 2. Contributions calendar (small/half-year) & streaks
+          # 2. Contributions calendar (half-year) & streaks
           plugin_isocalendar: yes
           
           # 3. Languages chart
           plugin_languages: yes
           plugin_languages_limit: 8
-          
-          # 4. Recent activity (strictly filtered to avoid "Unexpected error")
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_filter: issue, pr, release, fork, review
-          plugin_activity_visibility: public
