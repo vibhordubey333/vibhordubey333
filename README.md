@@ -3,7 +3,9 @@
 <p align="center">
   <b>Senior Backend Engineer — building distributed systems that handle high volume load and stay up.
 
-8+ years across event-driven pipelines, high-throughput APIs, and cloud-native infrastructure — primarily in Go and Java Spring Boot.
+8+ years across event-driven pipelines, high-throughput APIs, and cloud-native infrastructure — primarily in Go, Python, and Java Spring Boot.
+
+Also building AI-driven systems — architected an internal multi-agent platform (LangGraph, FastAPI, Celery) that automates PR risk analysis and code remediation using LLMs (OpenAI/Ollama), cutting manual review time by ~35%.
 
 Most of my work lives at the intersection of distributed systems and observability — designing for failure, reducing MTTD, and making production less surprising.
 
