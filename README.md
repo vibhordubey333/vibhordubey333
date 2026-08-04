@@ -73,10 +73,10 @@ Currently at Zinnia, leading backend development on a correspondence platform pr
 ---
 
 ## 👐 OSS Contribution
-- K9s (Kubernetes ecosystem tool): [Random characters were being input to k9s after periods of inactivity.](https://github.com/derailed/k9s/pull/3697) .<br/> 
-    - Identified and fixed an issue where inactive sessions caused unintended characters to appear in the terminal UI. Merged
-- Istio: [RegularExpression routes incorrectly ranked below PathPrefix routes](https://github.com/istio/istio/pull/58641) <br/>
-    -  Fixed a issue in service mesh by identifying and correcting edge case behavior. In Review
+- **[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder/pull/5919)** — Added support for sidecar containers, multiple Deployments, and multiple ServiceAccounts in Helm chart generation *(open)*
+- **[kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue/pull/13614)** — Authored KEP-13502: configurable timeout for pods stuck unscheduled post-admission, implemented across Job, Pod, JobSet, Ray*, MPIJob, and 4+ other job integrations *(open)*
+- **[k9s](https://github.com/derailed/k9s)** — Fixed an input-handling issue in the Kubernetes CLI tool. [Random characters were being input to k9s after periods of inactivity.](https://github.com/derailed/k9s/pull/3697) 
+- **[Istio](https://github.com/istio/istio/pull/58641)** — Diagnosed and fixed a Gateway API HTTPRoute bug where `RegularExpression` routes were ranked below `PathPrefix` routes in Envoy config generation, causing incorrect request routing *(closed, pending maintainer feedback)*
 ---
 
 ---
