@@ -106,9 +106,4 @@ Currently at Zinnia, leading backend development on a correspondence platform pr
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
